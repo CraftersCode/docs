@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Codecrafters Docs](README.md)
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [How to Join Codecrafters Community](getting-started/publish-your-docs.md)
 
 ## Plugins
 
