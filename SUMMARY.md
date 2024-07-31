@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [How to Join Codecrafters Community](getting-started/publish-your-docs.md)
+* [How to Join](getting-started/publish-your-docs.md)
 
 ## Plugins
 

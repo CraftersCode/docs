@@ -51,3 +51,7 @@ Welcome to the journey of creating, learning, and innovating with CodeCrafters!
 Happy Coding!
 
 The CodeCrafters Community
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>How to Join the CodeCrafters Community</td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td><td><a href=".gitbook/assets/favicon.png">favicon.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
