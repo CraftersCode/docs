@@ -1,10 +1,10 @@
-# How to Join Codecrafters Community
+# How to Join CodeCrafters Community
 
 Are you passionate about open-source development and eager to collaborate with like-minded individuals? Joining the CodeCrafters community is easy and rewarding. Follow the steps below to become a part of our vibrant and innovative network of developers.
 
 **Step 1: Express Your Interest**
 
-Send an email to Rupadana at rupadana@codecrafters.id with the subject line "Joining CodeCrafters Community". In your email, please include the following information:
+Send an email to Rupadana at [rupadana@codecrafters.id](mailto:rupadana@codecrafters.id) with the subject line "Joining CodeCrafters Community". In your email, please include the following information:
 
 * **Name**: Your full name.
 * **GitHub Username**: Your GitHub username or profile link.
@@ -37,7 +37,7 @@ With access to our community and projects, you can begin contributing in various
 
 We are thrilled to have you consider joining CodeCrafters and look forward to your contributions. Together, we can continue to create amazing open-source projects and foster a collaborative, supportive environment for developers everywhere.
 
-For any questions or additional information, feel free to contact Rupadana at rupadana@codecrafters.id.
+For any questions or additional information, feel free to contact Rupadana at [rupadana@codecrafters.id](mailto:rupadana@codecrafters.id).
 
 Welcome to CodeCrafters!
 
