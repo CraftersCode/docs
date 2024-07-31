@@ -275,4 +275,8 @@ The MIT License (MIT).
 
 ## Supported By
 
-![](https://res.cloudinary.com/rupadana/image/upload/v1707040287/phpstorm\_xjblau.png)
+<div align="left">
+
+<img src="https://res.cloudinary.com/rupadana/image/upload/v1707040287/phpstorm_xjblau.png" alt="" height="50" width="50">
+
+</div>
