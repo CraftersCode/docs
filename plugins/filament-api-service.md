@@ -6,7 +6,7 @@ description: A simple API service for supporting FilamentPHP
 
 [![Total Downloads](https://img.shields.io/packagist/dt/rupadana/filament-api-service.svg?style=flat-square)](https://packagist.org/packages/rupadana/filament-api-service) ![Run Test](https://github.com/rupadana/filament-api-service/actions/workflows/run-tests.yml/badge.svg?branch=main)
 
-### Installation
+## Installation
 
 You can install the package via composer:
 
@@ -24,7 +24,7 @@ $panel->plugins([
 ])
 ```
 
-#### Config
+### Config
 
 ```bash
 php artisan vendor:publish --tag=api-service-config
@@ -98,7 +98,7 @@ Token Resource is protected by TokenPolicy. You can disable it by publishing the
 > \[!IMPORTANT]\
 > If you use Laravel 11, don't forget to run `php artisan install:api` to publish the personal\_access\_tokens migration after that run `php artisan migrate` to migrate the migration, but as default if you run the `php artisan install:api` it will ask you to migrate your migration.
 
-#### Filtering & Allowed Field
+### Filtering & Allowed Field
 
 We used `"spatie/laravel-query-builder": "^5.3"` to handle query selecting, sorting and filtering. Check out [the spatie/laravel-query-builder documentation](https://spatie.be/docs/laravel-query-builder/v5/introduction) for more information. You can specified `allowedFilters` and `allowedFields` in your model. For example:
 
@@ -122,7 +122,7 @@ class User extends Model {
 }
 ```
 
-#### Create a Handler
+### Create a Handler
 
 To create a handler you can use this command. By default, i'm using CreateHandler
 
@@ -136,7 +136,7 @@ or
 php artisan make:filament-api-handler Blog
 ```
 
-#### Transform API Response
+### Transform API Response
 
 ```bash
 php artisan make:filament-api-transformer Blog
@@ -186,7 +186,7 @@ next step you need to edit & add it to your Resource
     }
 ```
 
-#### Group Name & Prefix
+### Group Name & Prefix
 
 You can edit prefix & group route name as you want, default this plugin use model singular label;
 
@@ -199,7 +199,7 @@ You can edit prefix & group route name as you want, default this plugin use mode
     }
 ```
 
-#### Middlewares
+### Middlewares
 
 You can add or override middlewares at two specific places. Via the Filament Panel Provider and/or via the Resources $routeMiddleware.
 
@@ -229,7 +229,7 @@ $panel->plugins([
 ])
 ```
 
-#### Tenancy
+### Tenancy
 
 When you want to enable Tenancy on this package you can enable this by setting the config `tenancy.enabled` to `true`. This makes sure that your api responses only retreive the data which that user has access to. So if you have configured 5 tenants and an user has access to 2 tenants. Then, enabling this feature will return only the data of those 2 tenants.
 
@@ -251,7 +251,7 @@ It will look like this:
 
 Overriding tenancy ownership relationship name by adding this property to the Handlers `protected static ?string $tenantOwnershipRelationshipName = null;`
 
-#### How to secure it?
+### How to secure it?
 
 Since version 3.0, it will automatically detect routes and secure it using sanctum.
 
@@ -259,7 +259,7 @@ To Generate Token, you just need create it from admin panel. It will be Token Re
 
 ![Image](https://res.cloudinary.com/rupadana/image/upload/v1704958748/Screenshot\_2024-01-11\_at\_15.37.55\_ncpg8n.png)
 
-#### Public API
+### Public API
 
 Set API to public by overriding this property on your API Handler. Assume we have a `PaginationHandler`
 
@@ -269,10 +269,10 @@ class PaginationHandler extends Handlers {
 }
 ```
 
-### License
+## License
 
 The MIT License (MIT).
 
-### Supported By
+## Supported By
 
 ![](https://res.cloudinary.com/rupadana/image/upload/v1707040287/phpstorm\_xjblau.png)
