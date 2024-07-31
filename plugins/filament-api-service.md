@@ -57,7 +57,7 @@ return [
 ];
 ```
 
-### Usage
+## Usage
 
 ```bash
 php artisan make:filament-api-service BlogResource
@@ -81,7 +81,7 @@ The routes will be :  &#x20;
 
 On CreateHandler, you need to be create your custom request validation.
 
-#### Token Resource
+### Token Resource
 
 By default, Token resource only show on `super_admin` role. you can modify give permission to other permission too.
 
