@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Codecrafters Docs](README.md)
+* [Welcome](README.md)
 
 ## Getting Started
 
@@ -9,3 +9,4 @@
 ## Plugins
 
 * [Filament API Service](plugins/filament-api-service.md)
+* [Filament Announce](plugins/filament-announce.md)
