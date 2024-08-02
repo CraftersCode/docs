@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Welcome to Codecrafters Docs
+# Welcome
 
 Welcome to CodeCrafters Docs, the official documentation hub for all open-source projects created and maintained by the CodeCrafters community. Whether you are a seasoned developer, a budding coder, or simply someone interested in the vibrant world of open-source software, this site is your go-to resource for comprehensive, well-organized, and user-friendly documentation.
 
@@ -54,4 +54,4 @@ The CodeCrafters Community
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>How to Join the CodeCrafters Community</td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td><td><a href=".gitbook/assets/favicon.png">favicon.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>How to Join the CodeCrafters Community</td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td><td><a href=".gitbook/assets/favicon.png">favicon.png</a></td></tr><tr><td></td><td></td><td>Blockchain - Testnet</td><td><a href="blockchain/testnet/">testnet</a></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>

@@ -18,8 +18,8 @@
 
 ## Blockchain
 
-* [Tesnet](blockchain/tesnet/README.md)
-  * [Chasm Network](blockchain/tesnet/chasm-network.md)
-  * [Empeiria](blockchain/tesnet/empeiria/README.md)
-    * [Requirements](blockchain/tesnet/empeiria/requirements.md)
-    * [Installation](blockchain/tesnet/empeiria/installation.md)
+* [Testnet](blockchain/testnet/README.md)
+  * [Chasm Network](blockchain/testnet/chasm-network.md)
+  * [Empeiria](blockchain/testnet/empeiria/README.md)
+    * [Requirements](blockchain/testnet/empeiria/requirements.md)
+    * [Installation](blockchain/testnet/empeiria/installation.md)
