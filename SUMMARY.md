@@ -15,6 +15,12 @@
 ## Project
 
 * [Remote Database Backup](project/remote-database-backup.md)
+* [Code Deploy](project/code-deploy/README.md)
+  * [Pre-requisite](project/code-deploy/pre-requisite.md)
+  * [Installation](project/code-deploy/installation.md)
+  * [How to use it?](project/code-deploy/how-to-use-it/README.md)
+    * [Create a server](project/code-deploy/how-to-use-it/create-a-server.md)
+    * [Adding site](project/code-deploy/how-to-use-it/adding-site.md)
 
 ## Blockchain
 
