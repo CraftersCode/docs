@@ -21,6 +21,7 @@
   * [How to use it?](project/code-deploy/how-to-use-it/README.md)
     * [Create a server](project/code-deploy/how-to-use-it/create-a-server.md)
     * [Adding site](project/code-deploy/how-to-use-it/adding-site.md)
+    * [Add discord notification](project/code-deploy/how-to-use-it/add-discord-notification.md)
 
 ## Blockchain
 
