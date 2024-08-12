@@ -1,10 +1,3 @@
----
-description: >-
-  CodeDeploy is an advanced deployment tool specifically designed for developers
-  who want to streamline the process of deploying web applications directly from
-  GitHub.
----
-
 # Code Deploy
 
 CodeDeploy is an advanced deployment tool specifically designed for developers who want to streamline the process of deploying web applications directly from GitHub. Leveraging the Push to Deploy method, CodeDeploy simplifies the deployment workflow, enabling developers to deploy code with a single push to their repository.
