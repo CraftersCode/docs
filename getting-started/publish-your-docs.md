@@ -4,7 +4,7 @@ Are you passionate about open-source development and eager to collaborate with l
 
 ## **Step 1: Express Your Interest**
 
-Send an email to Rupadana at [rupadana@codecrafters.id](mailto:rupadana@codecrafters.id) with the subject line "Joining CodeCrafters Community". In your email, please include the following information:
+Send an email to Rupadana at rupadanawayan\[@]gmail.com with the subject line "Joining CodeCrafters Community". In your email, please include the following information:
 
 * **Name**: Your full name.
 * **GitHub Username**: Your GitHub username or profile link.
